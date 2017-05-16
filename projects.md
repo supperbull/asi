@@ -76,3 +76,7 @@ utworzoną według poniższego schematu:
 1. [Kamil Kot](https://github.com/KotMeow/asi-frameworks). [Frameworks](https://asi-frameworks.herokuapp.com/) (Heroku)
 1. [Piotr Laskowski, Jakub Wojciechowski](https://github.com/ozh204/ruby-egz). [Gofry](https://ozh204-gofry.herokuapp.com/) (Heroku, DropBox)
 1. [Paweł Luszuk, Adam Makiewicz, Jakub Łąkowski](https://github.com/kubalakowski/daily-challenge). [Daily challenge](https://daily-code-challenge.herokuapp.com/) (Heroku)
+
+----
+
+1. [Jacek Sasin & Łukasz Motławski](https://github.com/jsasin/asi_egzamin). [Broń](https://asiegzaminn.herokuapp.com) (Heroku)
