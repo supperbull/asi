@@ -80,3 +80,5 @@ utworzoną według poniższego schematu:
 ----
 
 1. [Jacek Sasin & Łukasz Motławski](https://github.com/jsasin/asi_egzamin). [Broń](https://asiegzaminn.herokuapp.com) (Heroku)
+1. [Jakub Jabłoński](https://github.com/jakjablonski/ASI-my). [Blog](https://rocky-beach-30006.herokuapp.com/) (Heroku)
+1. [Mateusz Gawin](https://github.com/matgawin/projekt_asi2). [Blog](https://asi-blog.herokuapp.com/) (Heroku)
