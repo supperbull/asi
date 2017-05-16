@@ -51,6 +51,7 @@ Lab. 25, grupa 1. – 10:30, 2. – 12:15, 3. – 15:30.
 
 ## Projekty zespołowe (egzamin = średnia z zaliczenia i projektu)
 
+<!--
 W pliku _README.md_ z repozytorium należy wpisać wszystkich autorów aplikacji
 i następnie wykonać pull request, który dopisze linijkę tekstu do tego pliku
 utworzoną według poniższego schematu:
@@ -58,6 +59,7 @@ utworzoną według poniższego schematu:
 ```
 1. [Nazwa zespołu](link do repo z kodem). [Nazwa aplikacji](link do wdrożonej aplikacji) (gdzie wdrożono)
 ```
+-->
 
 1. [GL&HF](https://github.com/mkassjanski/asi-egzamin). [Flicks 2.0](https://flicks2.herokuapp.com/) (Heroku, AWS)
 1. [Dawid Cwilik & Martyna Pyszyńska & Daria Wieliczko](https://github.com/Ruby-team/ExamProject).
