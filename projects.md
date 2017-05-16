@@ -83,3 +83,4 @@ utworzoną według poniższego schematu:
 1. [Dawid Rombel](https://github.com/drombel/project-ruby). [Lista herbart upgraded](https://lista-herbat.herokuapp.com/) (Heroku)
 1. [Jacek Sasin & Łukasz Motławski](https://github.com/jsasin/asi_egzamin). [Broń](https://asiegzaminn.herokuapp.com) (Heroku)
 1. [Aleksander Stefański](https://github.com/astefanski1/WhatGames). [WhatGames](https://whatgames.herokuapp.com/games) (Heroku)
+1. [Damian Kalinowski, Rafał Lewandowski](https://github.com/lafreak/penny-auctions). [Penny Auctions](https://penny-auctions.herokuapp.com) (Heroku, Cloudinary)
