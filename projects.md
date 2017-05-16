@@ -78,7 +78,7 @@ utworzoną według poniższego schematu:
 
 ----
 
-1. [Jakub Jabłoński] (https://github.com/jakjablonski/ASI-my). [Blog](https://rocky-beach-30006.herokuapp.com/)
+1. [Jakub Jabłoński](https://github.com/jakjablonski/ASI-my). [Blog](https://rocky-beach-30006.herokuapp.com/)
 1. [Damian Kalinowski, Rafał Lewandowski](https://github.com/lafreak/penny-auctions). [Penny Auctions](https://penny-auctions.herokuapp.com/) (Heroku, Cloudinary)
 1. [Mateusz Gawin](https://github.com/matgawin/projekt_asi2). [Blog]
 1. [Sebastian Majewski](https://github.com/SebastianMajewski/RoR-Notepad). [ROR Notepad](https://rornotepad.herokuapp.com/) (Heroku)
