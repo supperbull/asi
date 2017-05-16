@@ -74,3 +74,4 @@ utworzoną według poniższego schematu:
 1. [Jacek Sasin & Łukasz Motławski](https://github.com/jsasin/asi_egzamin). [JeszczeMyślimy](https://github.com/jsasin/asi_egzamin) (Heroku)
 1. [Kaczmarz Tomasz](https://github.com/tkaczmarz/asi). [Salon samochodowy](https://shielded-tundra-94334.herokuapp.com)
 1. [Kamil Kot](https://github.com/KotMeow/asi-frameworks). [Frameworks](https://asi-frameworks.herokuapp.com/) (Heroku)
+2. [Piotr Laskowski, Jakub Wojciechowski](https://github.com/ozh204/ruby-egz). [Gofry](https://ozh204-gofry.herokuapp.com/)(Heroku, DropBox)
