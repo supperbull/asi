@@ -61,7 +61,6 @@ utworzoną według poniższego schematu:
 ```
 -->
 
-1. [GL&HF](https://github.com/mkassjanski/asi-egzamin). [Flicks 2.0](https://flicks2.herokuapp.com/) (Heroku, AWS)
 1. [Dawid Cwilik & Martyna Pyszyńska & Daria Wieliczko](https://github.com/Ruby-team/ExamProject).
 1. [Wadowice Disco Fever](https://github.com/implssv/MessageApp) - [MessageApp](http://serene-spire-89656.herokuapp.com/) (Heroku)
 1. [Kaczmarz Tomasz](https://github.com/tkaczmarz/asi). [Salon samochodowy](https://shielded-tundra-94334.herokuapp.com)
@@ -74,6 +73,7 @@ utworzoną według poniższego schematu:
 1. [Ciamciaramcia](https://github.com/atejszerska/ruby-asi-zespolowy). [Tramwaje Gdańsk](https://tramwaje-gdansk.herokuapp.com) (Heroku)
 1. [Mateusz Gawin](https://github.com/matgawin/projekt_asi2). [Blog](https://asi-blog.herokuapp.com/) (Heroku)
 1. [Jakub Jabłoński](https://github.com/jakjablonski/ASI-my). [Blog](https://rocky-beach-30006.herokuapp.com/) (Heroku)
+1. [GL&HF](https://github.com/mkassjanski/asi-egzamin). [Flicks 2.0](https://flicks2.herokuapp.com/) (Heroku, AWS)
 1. [Daria Kotowicz](https://github.com/dkotowicz/ruby_projekt2.git). [Blog]
 1. [Piotr Laskowski, Jakub Wojciechowski](https://github.com/ozh204/ruby-egz). [Gofry](https://ozh204-gofry.herokuapp.com/) (Heroku, DropBox)
 1. [Rafał Lisiecki](https://github.com/littlefoxmiastko/ruby1). [Księga wydatków samochodowych](http://ec2-34-208-194-252.us-west-2.compute.amazonaws.com/) (AWS)
