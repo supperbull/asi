@@ -66,7 +66,7 @@ utworzoną według poniższego schematu:
 1. [Wadowice Disco Fever](https://github.com/implssv/MessageApp) - [MessageApp](http://serene-spire-89656.herokuapp.com/) (Heroku)
 1. [Kaczmarz Tomasz](https://github.com/tkaczmarz/asi). [Salon samochodowy](https://shielded-tundra-94334.herokuapp.com)
 1. [Kamil Kot](https://github.com/KotMeow/asi-frameworks). [Frameworks](https://asi-frameworks.herokuapp.com/) (Heroku)
-1. [Piotr Laskowski, Jakub Wojciechowski](https://github.com/ozh204/ruby-egz). [Gofry](https://ozh204-gofry.herokuapp.com/) (Heroku, DropBox)
+1. [Sebastian Majewski](https://github.com/SebastianMajewski/RoR-Notepad). [ROR Notepad](https://rornotepad.herokuapp.com/) (Heroku)
 
 ----
 
@@ -75,11 +75,13 @@ utworzoną według poniższego schematu:
 1. [Mateusz Gawin](https://github.com/matgawin/projekt_asi2). [Blog](https://asi-blog.herokuapp.com/) (Heroku)
 1. [Jakub Jabłoński](https://github.com/jakjablonski/ASI-my). [Blog](https://rocky-beach-30006.herokuapp.com/) (Heroku)
 1. [Daria Kotowicz](https://github.com/dkotowicz/ruby_projekt2.git). [Blog]
+1. [Piotr Laskowski, Jakub Wojciechowski](https://github.com/ozh204/ruby-egz). [Gofry](https://ozh204-gofry.herokuapp.com/) (Heroku, DropBox)
 1. [Rafał Lisiecki](https://github.com/littlefoxmiastko/ruby1). [Księga wydatków samochodowych](http://ec2-34-208-194-252.us-west-2.compute.amazonaws.com/) (AWS)
 1. [Paweł Luszuk, Adam Makiewicz, Jakub Łąkowski](https://github.com/kubalakowski/daily-challenge). [Daily challenge](https://daily-code-challenge.herokuapp.com/) (Heroku)
 1. [Wojciech Łojkowski i Kacper Narożnik](https://github.com/wlojkowski/AlbumWebApp). [AlbumWeb App](https://albumwebapp.herokuapp.com/) (Heroku)
 1. [OJA](https://github.com/lic-planer/ruby_zespolowy). [Filmy animowane](https://shrouded-ocean-49748.herokuapp.com/) (Heroku)
 1. [Patryk Pobłocki](https://github.com/ppoblocki/egzaminRails). [PinTab!](https://fast-shore-79390.herokuapp.com/) (Heroku, AWS)
+
 1. [Dawid Rombel](https://github.com/drombel/project-ruby). [Lista herbart upgraded](https://lista-herbat.herokuapp.com/) (Heroku)
 1. [Jacek Sasin & Łukasz Motławski](https://github.com/jsasin/asi_egzamin). [Broń](https://asiegzaminn.herokuapp.com) (Heroku)
 1. [Aleksander Stefański](https://github.com/astefanski1/WhatGames). [WhatGames](https://whatgames.herokuapp.com/games) (Heroku)
