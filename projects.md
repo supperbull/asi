@@ -85,3 +85,4 @@ utworzoną według poniższego schematu:
 1. [Jacek Sasin & Łukasz Motławski](https://github.com/jsasin/asi_egzamin). [Broń](https://asiegzaminn.herokuapp.com) (Heroku)
 1. [Aleksander Stefański](https://github.com/astefanski1/WhatGames). [WhatGames](https://whatgames.herokuapp.com/games) (Heroku)
 1. [Wadowice Disco Fever](https://github.com/implssv/MessageApp) - [MessageApp](http://serene-spire-89656.herokuapp.com/) (Heroku)
+1. [Julianna Mikucka](https://github.com/LadyJuleczka/Rails-Egzamin). [Monsters&Dragons](https://aqueous-woodland-84605.herokuapp.com/) (Heroku)
