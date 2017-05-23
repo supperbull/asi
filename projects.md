@@ -61,7 +61,7 @@ utworzoną według poniższego schematu:
 ```
 -->
 
-1. [Dawid Cwilik & Martyna Pyszyńska & Daria Wieliczko](https://github.com/Ruby-team/ExamProject).
+1. [Dawid Cwilik & Martyna Pyszyńska & Daria Wieliczko](https://github.com/Ruby-team/NotesExamProject). [NoteManager](https://note-manager.herokuapp.com/)
 1. [Kamil Kot](https://github.com/KotMeow/asi-frameworks). [Frameworks](https://asi-frameworks.herokuapp.com/) (Heroku)
 1. [Sebastian Majewski](https://github.com/SebastianMajewski/RoR-Notepad). [ROR Notepad](https://rornotepad.herokuapp.com/) (Heroku)
 
