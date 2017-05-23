@@ -61,7 +61,6 @@ utworzoną według poniższego schematu:
 ```
 -->
 
-1. [Kamil Kot](https://github.com/KotMeow/asi-frameworks). [Frameworks](https://asi-frameworks.herokuapp.com/) (Heroku)
 1. [Sebastian Majewski](https://github.com/SebastianMajewski/RoR-Notepad). [ROR Notepad](https://rornotepad.herokuapp.com/) (Heroku)
 
 ----
@@ -74,6 +73,7 @@ utworzoną według poniższego schematu:
 1. [GL&HF](https://github.com/mkassjanski/asi-egzamin). [Flicks 2.0](https://flicks2.herokuapp.com/) (Heroku, AWS)
 1. [Kaczmarz Tomasz](https://github.com/tkaczmarz/asi). [Salon samochodowy](https://shielded-tundra-94334.herokuapp.com)
 1. [Damian Kalinowski, Rafał Lewandowski](https://github.com/lafreak/penny-auctions). [Penny Auctions](https://penny-auctions.herokuapp.com) (Heroku, Cloudinary)
+1. [Kamil Kot](https://github.com/KotMeow/asi-frameworks). [Frameworks](https://asi-frameworks.herokuapp.com/) (Heroku)
 1. [Daria Kotowicz](https://github.com/dkotowicz/ruby_projekt2.git). [Blog]
 1. [Piotr Laskowski, Jakub Wiśniewski](https://github.com/ozh204/ruby-egz). [Gofry](https://ozh204-gofry.herokuapp.com/) (Heroku, DropBox)
 1. [Rafał Lisiecki](https://github.com/littlefoxmiastko/ruby1). [Księga wydatków samochodowych](http://ec2-34-208-194-252.us-west-2.compute.amazonaws.com/) (AWS)
