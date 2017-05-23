@@ -76,7 +76,7 @@ utworzoną według poniższego schematu:
 1. [Kamil Kot](https://github.com/KotMeow/asi-frameworks). [Frameworks](https://asi-frameworks.herokuapp.com/) (Heroku)
 1. [Daria Kotowicz](https://github.com/dkotowicz/ruby_projekt2.git). [Blog]
 1. [Piotr Laskowski, Jakub Wiśniewski](https://github.com/ozh204/ruby-egz). [Gofry](https://ozh204-gofry.herokuapp.com/) (Heroku, DropBox)
-[Lis, Marcin](https://github.com/marcinlis0/MoviesRating). [MoviesRating](http://rate-this.herokuapp.com/)
+1. [Lis, Marcin](https://github.com/marcinlis0/MoviesRating). [MoviesRating](http://rate-this.herokuapp.com/)
 1. [Rafał Lisiecki](https://github.com/littlefoxmiastko/ruby1). [Księga wydatków samochodowych](http://ec2-34-208-194-252.us-west-2.compute.amazonaws.com/) (AWS)
 1. [Paweł Luszuk, Adam Makiewicz, Jakub Łąkowski](https://github.com/kubalakowski/daily-challenge). [Daily challenge](https://daily-code-challenge.herokuapp.com/) (Heroku)
 1. [Wojciech Łojkowski i Kacper Narożnik](https://github.com/wlojkowski/AlbumWebApp). [AlbumWeb App](https://albumwebapp.herokuapp.com/) (Heroku)
