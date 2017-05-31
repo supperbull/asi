@@ -44,9 +44,13 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
   Replace: $1. $2, $3
 -->
 
-## Laboratorium
+## Laboratorium (prezentacje projektów)
 
-Lab. 25, grupa 1. – 10:30, 2. – 12:15, 3. – 15:30.
+W związku z awarią sufitu, decyzją inspektora technicznego, 
+laboratorium 25 zostało zamknięte do odwołania. Dlatego
+zmieniłem godziny i salę. 
+
+**NEW!** p. 121, grupa 1. – 10:45, 2. – 12:15, 3. – 15:15.
 
 
 ## Projekty zespołowe (egzamin = średnia z zaliczenia i projektu)
