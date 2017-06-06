@@ -91,3 +91,4 @@ utworzoną według poniższego schematu:
 1. [Żołądek, Damian](https://github.com/damian024/rails). [Flats Catalog](https://flatcatalog.herokuapp.com/)
 1. [Piotr Kawa i Szymon Świstun](https://github.com/Pkawa/Twitter-rails). [OurOwnTwitter](https://ourowntwitter.herokuapp.com/)
 1. [Kamil Gniazdowski i Mikołaj Piecuch](https://github.com/mikolajpiecuch/BlaBlaRails)
+1. [Mateusz Knitter](https://github.com/supperbull/antywirpak)
